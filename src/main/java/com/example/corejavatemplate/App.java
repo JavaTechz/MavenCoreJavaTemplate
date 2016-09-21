@@ -8,7 +8,7 @@ package com.example.corejavatemplate;
 public class App {
 
 	public static void main(String[] args) {
-		System.out.println("Unique ID : " + new java.util.Date());
+		System.out.println("Date : " + new java.util.Date());
 	}
 
 }
